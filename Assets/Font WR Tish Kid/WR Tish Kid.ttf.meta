@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a6aaa7bf440a6ea47b757768320dfe56
+timeCreated: 1494971884
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WR Tish Kid
+  fontNames:
+  - WR Tish Kid
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

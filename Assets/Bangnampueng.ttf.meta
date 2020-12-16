@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47b3f16788605274fa3be5b039526255
+timeCreated: 1493818918
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bangnampueng
+  fontNames:
+  - Bangnampueng
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
